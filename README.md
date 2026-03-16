@@ -3,20 +3,13 @@
 
 Este repositório contém o material didático para a disciplina de POO, focado em Java.
 
-## 📚 Downloads
-Para baixar o material completo, acesse a seção de [Ebook POO Java - Versão 16/03/2026](https://github.com/hsjunior/POO/releases/tag/2026.03.16).
+# 📥 Download do Material (Versão Oficial)
 
-* [Clique aqui para baixar o Ebook em PDF](https://github.com/hsjunior/POO/releases/download/2026.03.16/POO.-.BSI.pdf)
-* [Clique aqui para baixar todos os exercícios](https://github.com/hsjunior/POO/releases/tag/2026.03.16)
+Para baixar o livro e os exercícios e garantir que você tem a versão mais atualizada, use os links abaixo:
 
-## 📂 Estrutura do Repositório
-Aqui você encontra os códigos organizados por capítulo:
+👉 [**EBOOK (PDF)**](https://github.com/hsjunior/POO/releases/download/2026.03.16/POO.-.BSI.pdf)  
 
-```text
-├── ebook/ 
-│   └── POO.-.BSI.pdf 
-├── exercicios resolvidos/ 
-│   ├── 01 Classes e Objetos/ 
-│   │   └── Banco_Aula01_Classes_Objetos.zip 
-│   ├── 02 Metodos/ 
-│   └── ...
+Execrícios:
+* 👉 [**01. Classes e Objetos**](https://github.com/hsjunior/POO/releases/download/2026.03.16/Banco_Aula01_Classes_Objetos.zip)
+
+
