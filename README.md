@@ -1,13 +1,22 @@
-```
-Livro digital "Programação Orientada a Objetos - Teoria e Prática (Uma abordagem objetiva, incremental e aplicada)".
-Inclui exercícios resolvidos em Java dos 8 primeiros capítulos do livro.
+# Programação Orientada a Objetos - Teoria e Prática
+*(Uma abordagem objetiva, incremental e aplicada)*
 
-├── ebook/
-│   └── POO.-.BSI.pdf
-├── exercicios resolvidos/
-│   ├── 01 Classes e Objetos/
-│   │   └── Banco_Aula01_Classes_Objetos.zip
-│   ├── 02 Metodos/
+Este repositório contém o material didático para a disciplina de POO, focado em Java.
+
+## 📚 Downloads
+Para baixar o material completo, acesse a seção de [Ebook POO Java - Versão 16/03/2026]([link-da-sua-release-aqui](https://github.com/hsjunior/POO/releases/tag/2026.03.16).
+
+* [Clique aqui para baixar o Ebook em PDF]([link-direto-do-pdf-na-release](https://github.com/hsjunior/POO/releases/download/2026.03.16/POO.-.BSI.pdf))
+* [Clique aqui para baixar todos os exercícios](link-direto-do-zip-na-release)
+
+## 📂 Estrutura do Repositório
+Aqui você encontra os códigos organizados por capítulo:
+
+```text
+├── ebook/ 
+│   └── POO.-.BSI.pdf 
+├── exercicios resolvidos/ 
+│   ├── 01 Classes e Objetos/ 
+│   │   └── Banco_Aula01_Classes_Objetos.zip 
+│   ├── 02 Metodos/ 
 │   └── ...
-
-```
