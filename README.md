@@ -9,7 +9,7 @@ Para baixar o livro e os exercícios e garantir que você tem a versão mais atu
 
 👉 [**EBOOK (PDF)**](https://github.com/hsjunior/POO/releases/download/2026.03.16/eBook_POO_BSI.pdf)  
 
-![Downloads do Ebook](https://img.shields.io/github/downloads/hsjunior/POO/2026.03.16/eBook_POO_BSI.pdf?label=Downloads%20do%20Ebook&color=brightgreen&style=for-the-badge)
+![xxx](https://img.shields.io/github/downloads/hsjunior/POO/2026.03.16/eBook_POO_BSI.pdf?label=Downloads%20do%20Ebook&color=brightgreen&style=for-the-badge)
 
 Execrícios:
 * 👉 [**01. Classes e Objetos**](https://github.com/hsjunior/POO/releases/download/2026.03.16/Banco_Aula01_Classes_Objetos.zip)
