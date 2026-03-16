@@ -21,4 +21,4 @@ Execrícios:
 * 👉 [**08. Revisão**](https://github.com/hsjunior/POO/releases/download/2026.03.16/RH_gabarito.zip)
 
 
-![Downloads do Ebook](https://img.shields.io/github/downloads/hsjunior/POO/2026.03.16/eBook_POO_BSI.pdf?label=Downloads%20do%20Ebook&color=brightgreen&style=for-the-badge)
+![Downloads do Ebook](https://img.shields.io/github/downloads/hsjunior/POO/total?label=Downloads%20Totais&color=brightgreen&style=for-the-badge)
