@@ -11,7 +11,7 @@ Para baixar o livro e os exercícios e garantir que você tem a versão mais atu
 * 👉 [**EBOOK VERSÃO MOBILE (PDF)**](https://github.com/hsjunior/POO/releases/download/2026.03.16/eBook_POO_BSI_mobile.pdf)  
 
 
-Execrícios:
+Códigos Completos dos Exercícios Resolvidos:
 * 👉 [**01. Classes e Objetos**](https://github.com/hsjunior/POO/releases/download/2026.03.16/Banco_Aula01_Classes_Objetos.zip)
 * 👉 [**02. Métodos**](https://github.com/hsjunior/POO/releases/download/2026.03.16/Banco_Aula02_Metodos.zip)
 * 👉 [**03. Construtores**](https://github.com/hsjunior/POO/releases/download/2026.03.16/Banco_Aula03_Construtores.zip)
