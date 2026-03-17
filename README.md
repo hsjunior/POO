@@ -1,5 +1,5 @@
 # Programação Orientada a Objetos - Teoria e Prática
-*eBook Programação Orientada a Objetos - Teoria e Prática (Uma abordagem objetiva, incremental e aplicada)*
+*eBook: Programação Orientada a Objetos - Teoria e Prática (Uma abordagem objetiva, incremental e aplicada)*
 
 Este repositório contém o material didático para a disciplina de POO, focado em Java.
 
