@@ -7,8 +7,8 @@ Este repositório contém o material didático para a disciplina de POO, focado 
 
 Para baixar o livro e os exercícios e garantir que você tem a versão mais atualizada, use os links abaixo:
 
-* 👉 [**EBOOK (PDF)**](https://github.com/hsjunior/POO/releases/latest/download/eBook_POO_BSI.pdf)  
-* 👉 [**EBOOK VERSÃO MOBILE (PDF)**](https://github.com/hsjunior/POO/releases/latest/download/eBook_POO_BSI_mobile.pdf)  
+* 👉 [**EBOOK (PDF)**](https://git.new/POO_BSI)  
+* 👉 [**EBOOK VERSÃO MOBILE (PDF)**](https://git.new/POO_BSI_Mobile)  
 
 
 Códigos Completos dos Exercícios Resolvidos:
