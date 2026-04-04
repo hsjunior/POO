@@ -23,5 +23,4 @@ Códigos Completos dos Exercícios Resolvidos:
 
 
 ![Downloads do Ebook](https://img.shields.io/github/downloads/hsjunior/POO/total?label=Downloads%20Totais&color=brightgreen&style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/hsjunior/POO/total?label=Downloads%20Confirmados&color=brightgreen&style=for-the-badge)
 
