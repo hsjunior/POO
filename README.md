@@ -21,7 +21,7 @@ Códigos Completos dos Exercícios Resolvidos:
 * 👉 [**07. Arrays e ArrayLists**](https://github.com/hsjunior/POO/releases/latest/download/Banco_Aula07_Arrays.zip)
 * 👉 [**08. Revisão**](https://github.com/hsjunior/POO/releases/latest/download/RH_gabarito.zip)
 
-<!--
+
 ![Downloads do Ebook](https://img.shields.io/github/downloads/hsjunior/POO/total?label=Downloads%20Totais&color=brightgreen&style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/hsjunior/POO/total?label=Downloads%20Confirmados&color=brightgreen&style=for-the-badge)
--->
+
